@@ -40,7 +40,7 @@ Project Organization
     │   ├── features       <- Scripts to turn raw data into features for modeling
     │   │   └── build_features.py
     │   │
-    │   ├── models         <- Scripts used to write experiments, analyse data and generate results
+    │   ├── results         <- Scripts used to write experiments, analyse data and generate results
     │   │   │      
     │   │   ├── analysis.py
     │   │   
