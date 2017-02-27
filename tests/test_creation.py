@@ -67,7 +67,7 @@ def test_folders(default_baked_project):
         os.path.join('data', 'processed'),
         os.path.join('data', 'raw'),
         'docs',
-        'models',
+        'results',
         'notebooks',
         'references',
         'reports',
@@ -75,7 +75,7 @@ def test_folders(default_baked_project):
         'src',
         os.path.join('src', 'data'),
         os.path.join('src', 'features'),
-        os.path.join('src', 'models'),
+        os.path.join('src', 'results'),
         os.path.join('src', 'visualization')
     ]
 
